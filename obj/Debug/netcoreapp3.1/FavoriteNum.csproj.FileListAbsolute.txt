@@ -1,0 +1,14 @@
+C:\Users\seila\Desktop\Repos\FavoriteNum\FavoriteNum\bin\Debug\netcoreapp3.1\FavoriteNum.exe
+C:\Users\seila\Desktop\Repos\FavoriteNum\FavoriteNum\bin\Debug\netcoreapp3.1\FavoriteNum.deps.json
+C:\Users\seila\Desktop\Repos\FavoriteNum\FavoriteNum\bin\Debug\netcoreapp3.1\FavoriteNum.runtimeconfig.json
+C:\Users\seila\Desktop\Repos\FavoriteNum\FavoriteNum\bin\Debug\netcoreapp3.1\FavoriteNum.runtimeconfig.dev.json
+C:\Users\seila\Desktop\Repos\FavoriteNum\FavoriteNum\bin\Debug\netcoreapp3.1\FavoriteNum.dll
+C:\Users\seila\Desktop\Repos\FavoriteNum\FavoriteNum\bin\Debug\netcoreapp3.1\FavoriteNum.pdb
+C:\Users\seila\Desktop\Repos\FavoriteNum\FavoriteNum\obj\Debug\netcoreapp3.1\FavoriteNum.csproj.AssemblyReference.cache
+C:\Users\seila\Desktop\Repos\FavoriteNum\FavoriteNum\obj\Debug\netcoreapp3.1\FavoriteNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seila\Desktop\Repos\FavoriteNum\FavoriteNum\obj\Debug\netcoreapp3.1\FavoriteNum.AssemblyInfoInputs.cache
+C:\Users\seila\Desktop\Repos\FavoriteNum\FavoriteNum\obj\Debug\netcoreapp3.1\FavoriteNum.AssemblyInfo.cs
+C:\Users\seila\Desktop\Repos\FavoriteNum\FavoriteNum\obj\Debug\netcoreapp3.1\FavoriteNum.csproj.CoreCompileInputs.cache
+C:\Users\seila\Desktop\Repos\FavoriteNum\FavoriteNum\obj\Debug\netcoreapp3.1\FavoriteNum.dll
+C:\Users\seila\Desktop\Repos\FavoriteNum\FavoriteNum\obj\Debug\netcoreapp3.1\FavoriteNum.pdb
+C:\Users\seila\Desktop\Repos\FavoriteNum\FavoriteNum\obj\Debug\netcoreapp3.1\FavoriteNum.genruntimeconfig.cache
